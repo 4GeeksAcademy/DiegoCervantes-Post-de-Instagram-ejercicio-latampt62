@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+.body-feed {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 600px;
+    height: 850px;
+    padding: auto;
+}
+/*Header*/
+.header {
+    height: 65px;
+    background-color: wheat;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user {
+    display: flex;
+}
+
+.username {
+    padding-top: 10px;
+}
+
+.menu {
+    padding: 23px;
+}
+/*Foto*/
+.photo{
+    width: 600px;
+    height: 600px;
+}
+/*likes*/
+.likes {
+    display: flex;
+    justify-content: space-between;
+}
